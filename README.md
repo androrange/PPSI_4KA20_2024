@@ -24,7 +24,7 @@ Website AC Nursing bertujuan untuk memberikan informasi lengkap dan mudah diakse
 - [Business Process Model and Notation](https://drive.google.com/file/d/1Cljy6Bj49O3bYz52t2YS6YtzgLSmS9V5/view?usp=drive_link)
 - [Software Requirements Specification](https://drive.google.com/file/d/1SyELzPSCb99DnH3e3oDmhHCMDaVw9UYe/view?usp=sharing)
 - [Software Design Documents](https://drive.google.com/file/d/1lJzlWo930pcypdkoLSMerNmlUDqJ-kRe/view?usp=sharing)
-- [Implementation Plan Documents](https://docs.google.com/document/d/14ieP2mkD3SpbtWdgFM0MIaRDgU1QMtRu/edit?usp=sharing&ouid=115281721375636308686&rtpof=true&sd=true)
+- [Implementation Plan Documents](https://docs.google.com/document/d/13s_Qv9w41w3bwvnTA9v9YpzuYnCXjzzjM8cJDNV1xNE/edit?tab=t.0)
 
 ## Video Presentation
 
